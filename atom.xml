@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wenqingyu.github.io/</id>
     <title>Wenqing Yu&apos;s blog</title>
-    <updated>2020-12-07T02:42:05.877Z</updated>
+    <updated>2020-12-07T02:42:45.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wenqingyu.github.io/"/>
     <link rel="self" href="https://wenqingyu.github.io/atom.xml"/>
-    <subtitle>Yu Wenqing
-Tech advocate@Chainlink
+    <subtitle>Yu Wenqing&lt;/br&gt;
+Tech advocate@Chainlink&lt;/br&gt;
 Investment analyst@Fundamental Labs</subtitle>
     <logo>https://wenqingyu.github.io/images/avatar.png</logo>
     <icon>https://wenqingyu.github.io/favicon.ico</icon>
