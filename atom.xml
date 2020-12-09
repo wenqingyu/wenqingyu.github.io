@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wenqingyu.github.io/</id>
-    <title>Wenqing Yu&apos;s blog</title>
-    <updated>2020-12-07T02:42:45.509Z</updated>
+    <id>http://link2.guru</id>
+    <title>&lt;Link2.Guru&gt;</title>
+    <updated>2020-12-09T03:12:47.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wenqingyu.github.io/"/>
-    <link rel="self" href="https://wenqingyu.github.io/atom.xml"/>
-    <subtitle>Yu Wenqing&lt;/br&gt;
-Tech advocate@Chainlink&lt;/br&gt;
-Investment analyst@Fundamental Labs</subtitle>
-    <logo>https://wenqingyu.github.io/images/avatar.png</logo>
-    <icon>https://wenqingyu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Wenqing Yu&apos;s blog</rights>
+    <link rel="alternate" href="http://link2.guru"/>
+    <link rel="self" href="http://link2.guru/atom.xml"/>
+    <subtitle>Blockchain link world,&lt;/br&gt;
+we link blockchain.
+</subtitle>
+    <logo>http://link2.guru/images/avatar.png</logo>
+    <icon>http://link2.guru/favicon.ico</icon>
+    <rights>All rights reserved 2020, &lt;Link2.Guru&gt;</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://wenqingyu.github.io/post/hello-gridea/</id>
-        <link href="https://wenqingyu.github.io/post/hello-gridea/">
+        <id>http://link2.guru/post/hello-gridea/</id>
+        <link href="http://link2.guru/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
